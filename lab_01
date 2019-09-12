@@ -1,0 +1,20 @@
+<корень-личного-репозитория>
+|--lab_01
+   |--correct
+      |--include
+      |  |--Файлы *.h
+      |--src
+      |  |--Файлы *.c
+      |--Makefile
+   |--unresolved
+      |--include
+      |  |--Файлы *.h
+      |--src
+      |  |--Файлы *.c
+      |--Makefile
+   |--multiple
+      |--include
+      |  |--Файлы *.h
+      |--src
+      |  |--Файлы *.c
+      |--Makefile
